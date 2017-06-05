@@ -1,0 +1,16 @@
+<!DOCTYPE--html>
+<html>
+<head>
+<title>Python Virtualenvs & Recursion</title>
+</head>
+<body>
+<h1>Python Virtualenvs & Recursion</h1>
+<h3>Intro</h3>
+<p>To learn more about software development, I started with systems administration on Linux servers to work with open source projects. I work in elearning, which brought me to exploring learning management systems like Moodle and edX. Moodle was pretty organized from my point of view on the server side with great documentation. on the front end, there was too much going on for mesince I am a minimalist.</p>
+<p>I went to Open edX hoping to see a simpler architecture since the front end was so clean looking. I was confused by the recursion. THe edx app was in three folders, each named edx. I fumbled around for a few weeks and suffered through the edX docs & forum, which did not seem complete or clear to me at the time. I resolved to look into python, hoping to learn more about the virtualenvs. This blog aims to contain resources I find for this ongoing project.</p>
+<p>Real Python Docs</p>
+<ul>
+<li>https://realpython.com/blog/python/python-virtual-environments-a-primer/</li>
+</ul>
+</body>
+</html>
